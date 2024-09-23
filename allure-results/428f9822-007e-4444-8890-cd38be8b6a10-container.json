@@ -1,0 +1,1 @@
+{"uuid":"428f9822-007e-4444-8890-cd38be8b6a10","name":"com.giva.qa.tests.SearchTest","children":["f6a0f305-c521-419b-b4e7-50cfccc31bfd"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1726825023120,"stop":1726825023369}],"start":1726825008623,"stop":1726825023375}
